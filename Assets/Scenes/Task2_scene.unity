@@ -467,7 +467,7 @@ GameObject:
   - component: {fileID: 376883854}
   - component: {fileID: 376883853}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: BarkSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9539,7 +9539,7 @@ GameObject:
   - component: {fileID: 1133341280}
   - component: {fileID: 1133341279}
   m_Layer: 0
-  m_Name: Sphere (3)
+  m_Name: OrbToBePondered
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18163,7 +18163,7 @@ GameObject:
   - component: {fileID: 1354470407}
   - component: {fileID: 1354470406}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: Path
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26924,7 +26924,7 @@ GameObject:
   - component: {fileID: 1624445016}
   - component: {fileID: 1624445020}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Flag
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30087,7 +30087,7 @@ GameObject:
   - component: {fileID: 1802650291}
   - component: {fileID: 1802650290}
   m_Layer: 0
-  m_Name: Sphere (2)
+  m_Name: Opacity_MaterialEditor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38711,7 +38711,7 @@ GameObject:
   - component: {fileID: 1852453312}
   - component: {fileID: 1852453311}
   m_Layer: 0
-  m_Name: Sphere (4)
+  m_Name: Opacity_ShaderGraph
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47499,7 +47499,7 @@ GameObject:
   - component: {fileID: 1902077837}
   - component: {fileID: 1902077836}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -47769,7 +47769,7 @@ GameObject:
   - component: {fileID: 2110316429}
   - component: {fileID: 2110316428}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
